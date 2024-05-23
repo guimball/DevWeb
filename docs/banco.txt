@@ -1,0 +1,5 @@
+link:
+https://supabase.com/
+
+projeto:    ProjectWeb
+senha:      Abacate23!.
